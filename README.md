@@ -24,7 +24,7 @@
 
 ## 🚀 Featured Projects
 
-### 📌 Student Management System
+### 📌 [Student Management System](https://github.com/payealche-crypto/-Student-Management-System.git)
 A web-based system for organizing student information, grades, and records using PHP and MySQL.
 
 ---
