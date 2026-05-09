@@ -36,8 +36,7 @@ A clean and responsive portfolio website built with HTML, CSS, and JavaScript to
 
 ## 🌐 Connect With Me
 
-💻 GitHub: https://github.com/hearshiie
-
+💻 GitHub: @Alche20
 ---
 
 ⭐ *“Small progress every day leads to big achievements.”*
