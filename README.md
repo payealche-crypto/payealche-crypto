@@ -27,6 +27,8 @@
 ### 📌 Student Management System
 A web-based system for organizing student information, grades, and records using PHP and MySQL.
 
+---
+
 ### 📌 Personal Portfolio Website
 A clean and responsive portfolio website built with HTML, CSS, and JavaScript to showcase my projects and skills.
 
